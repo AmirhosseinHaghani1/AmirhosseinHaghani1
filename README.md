@@ -31,12 +31,14 @@ I am learning front-end programming, and I aspire to become a skilled programmer
 🌱 I’m currently learning React Js   
 </p>
 <p>
-💬 Ask me about HTML, CSS, Bootstrap , TailwindCSS, JS, REACT
+💬 Ask me about HTML, CSS, Bootstrap , TailwindCSS, JS, REACT![developer](https://github.com/user-attachments/assets/e6881799-1f98-4126-8196-38baac7318c1)
+
 </p>  
 <p>
 📫 How to reach me : 
 <strong><a href="www.amirhosein2025@gmail.com">www.amirhosein2025@gmail.com</a></strong>
 </p>
 </div>
-
-
+<div align="center">  
+  <img src="https://media.giphy.com/media/3o7aD2sa8g0g0g0g0g/giphy.gif" alt="کدنویسی" class="rounded-lg">  
+</div>
