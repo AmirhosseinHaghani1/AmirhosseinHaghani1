@@ -1,4 +1,6 @@
-# Hi👋, I'm AmirhosseinHaghani  
+<p align="center">  
+# Hi👋, I'm AmirhosseinHaghani   
+</p>  
 
 #### front-end developer  
 
