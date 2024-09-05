@@ -47,4 +47,3 @@
 <div align="center">  
   <img src="https://github.com/AmirhosseinHaghani1/AmirhosseinHaghani1/blob/main/develpergif.gif" alt="developerGif" class="rounded-lg" style="width: 50%; height: auto; border-radius: 25px; ">   
 </div>
-https://github.com/AmirhosseinHaghani1/AmirhosseinHaghani1/blob/main/img.png
