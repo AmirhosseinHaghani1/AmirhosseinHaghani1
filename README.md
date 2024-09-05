@@ -1,12 +1,17 @@
 <div aling="center">
 <h1 align="center" style="font-size : 25px; ">Hi👋, I'm AmirhosseinHaghani</h1>
 </div>
-<div>
-<h6>front-end developer</h6>
+<div align="center">  
+  <img src="https://github.com/AmirhosseinHaghani1/AmirhosseinHaghani1/raw/main/img.png" alt="Img" class="rounded-lg" style="width: 80%; height: 40%; border-radius: 25px;">   
 </div>
 <hr/>
 <div>
+ <h3 style="font-size:60px">
+  📖 Explanations : 
+ </h3>
+ <p>
 𝐈 𝐚𝐦 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐈 𝐚𝐬𝐩𝐢𝐫𝐞 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐚 𝐬𝐤𝐢𝐥𝐥𝐞𝐝 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫 𝐢𝐧 𝐭𝐡𝐞 𝐟𝐮𝐭𝐮𝐫𝐞. 
+ </p>
 </div>
 <hr/>
 <div>
@@ -42,3 +47,4 @@
 <div align="center">  
   <img src="https://github.com/AmirhosseinHaghani1/AmirhosseinHaghani1/blob/main/develpergif.gif" alt="developerGif" class="rounded-lg" style="width: 50%; height: auto; border-radius: 25px; ">   
 </div>
+https://github.com/AmirhosseinHaghani1/AmirhosseinHaghani1/blob/main/img.png
