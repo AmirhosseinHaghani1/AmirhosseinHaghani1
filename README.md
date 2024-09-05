@@ -41,7 +41,7 @@
 </p>  
 <p>
 📫 How to reach me : 
-<strong><a href="www.amirhosein2025@gmail.com">www.amirhosein2025@gmail.com</a></strong>
+<strong><a href="www.amirhosein2025@gmail.com">amirhossein2025</a></strong>
 </p>
 </div>
 <div align="center">  
