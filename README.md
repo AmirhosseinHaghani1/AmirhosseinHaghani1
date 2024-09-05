@@ -39,4 +39,6 @@ I am learning front-end programming, and I aspire to become a skilled programmer
 <strong><a href="www.amirhosein2025@gmail.com">www.amirhosein2025@gmail.com</a></strong>
 </p>
 </div>
-
+<div align="center">  
+  <img src="https://github.com/AmirhosseinHaghani1/AmirhosseinHaghani1/blob/main/develpergif.gif" alt="developerGif" class="rounded-lg" style="width: 50%; height: auto; border-radius: 25px; ">   
+</div>
