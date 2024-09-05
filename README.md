@@ -1,52 +1,42 @@
-<!DOCTYPE html>  
-<html lang="fa">  
-<head>  
-    <meta charset="UTF-8">  
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <title>Profile</title>  
-    <script src="https://cdn.tailwindcss.com"></script>  
-    <style>  
-        .fade-in {  
-            opacity: 0;  
-            transform: translateY(20px);  
-            animation: fadeIn 0.5s forwards;  
-        }  
+<div aling="center">
+<h1 align="center" style="font-size : 25px; ">Hi👋, I'm AmirhosseinHaghani</h1>
+</div>
+<div>
+<h6>front-end developer</h6>
+</div>
+<hr/>
+<div>
+I am learning front-end programming, and I aspire to become a skilled programmer in the future.  
+</div>
+<hr/>
+<div>
+ <h4>💻 Skills : </h4>
+<div>  
+<img src="https://camo.githubusercontent.com/d4d9d935f85b68223a3514c6a889ea3ed6a77afb5f560c05baa1a1b168077830/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/930c71eac967cc5cec61c0aa08ba3719f9cb68e28cdffa63b28b0a31be1663b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/87d97e4553a60edf0a89b98ae7e96ff2293c51ca69754f7b605c342ab0400a7a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333835313146412e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/b2eac0f505dfd05c25acf8c285b5eb346916090126c8836c6cbf9aeb754eac32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" alt="TailwindCSS" data-canonical-src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/29d02b3669d6450d67e043cf5909e740dcb94c1e2306d88ac48b15b4ec55dc65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;">  
+<img src="https://camo.githubusercontent.com/f93e05694a6f01f2f6a37713a454a942442a5ff2b33083891096a6f7e57842f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" alt="React" data-canonical-src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" style="max-width: 100%;">
+</div>  
+</div>
+<hr / >
+<div>
+  <h2 style="color : red ">𝔸𝕓𝕠𝕦𝕥 𝕄𝕖 :</h2>
+  
+<p>
+🔭 I’m currently working on web   
+</p>
+<p>
+🌱 I’m currently learning React Js   
+</p>
+<p>
+💬 Ask me about HTML, CSS, Bootstrap , TailwindCSS, JS, REACT
+</p>  
+<p>
+📫 How to reach me : 
+<strong><a href="www.amirhosein2025@gmail.com">www.amirhosein2025@gmail.com</a></strong>
+</p>
+</div>
 
-        @keyframes fadeIn {  
-            to {  
-                opacity: 1;  
-                transform: translateY(0);  
-            }  
-        }  
-    </style>  
-</head>  
-<body class="bg-gray-100 p-10">  
-    <div class="max-w-2xl mx-auto bg-white p-5 rounded-lg shadow-lg">  
-        <h1 class="text-3xl font-bold text-center fade-in" style="animation-delay: 0.2s;">Hi👋, I'm Amirhossein Haghani</h1>  
-        <h4 class="text-xl text-center fade-in" style="animation-delay: 0.4s;">Front-end Developer</h4>  
-        <hr class="my-4">  
-        <p class="fade-in" style="animation-delay: 0.6s;">I am learning front-end programming, and I aspire to become a skilled programmer in the future.</p>  
-        <hr class="my-4">  
-        <h3 class="text-2xl font-semibold fade-in" style="animation-delay: 0.8s;">💻 Skills:</h3>  
-        <div class="flex justify-center space-x-2 fade-in" style="animation-delay: 1s;">  
-            <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">  
-            <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">  
-            <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">  
-            <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">  
-            <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">  
-            <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">  
-        </div>  
-        <hr class="my-4">  
-        <h3 class="text-2xl font-semibold fade-in" style="animation-delay: 1.2s;">𝔸𝕓𝕠𝕦𝕥 𝕄𝕖:</h3>  
-        <ul class="list-disc pl-5 fade-in" style="animation-delay: 1.4s;">  
-            <li>🔭 I’m currently working on web</li>  
-            <li>🌱 I’m currently learning React Js</li>  
-            <li>💬 Ask me about HTML, CSS, TailwindCSS, JS, REACT</li>  
-        </ul>  
-        <hr class="my-4">  
-        <h3 class="text-2xl font-semibold fade-in" style="animation-delay: 1.6s;">📫 How to reach me:</h3>  
-        <p class="fade-in" style="animation-delay: 1.8s;"><strong><a href="mailto:www.amirhosein2025@gmail.com" class="text-blue-500">www.amirhosein2025@gmail.com</a></strong></p>  
-    </div>  
-</body>  
-</html>
 
