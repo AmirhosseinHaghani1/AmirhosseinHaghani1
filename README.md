@@ -40,6 +40,4 @@
   <strong><a href="www.amirhosein2025@gmail.com">amirhossein2025</a></strong>
   </p>
   </div>
-  <div align="center">  
-    <img src="https://github.com/AmirhosseinHaghani1/AmirhosseinHaghani1/blob/main/develpergif.gif" alt="developerGif" class="rounded-lg" style="width: 50%; height: auto; border-radius: 25px; ">   
-  </div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAFF,100:5bcffff&height=200&section=footer" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAFF,100:5bcffff&height=200&section=footer" style="max-width: 100%;">
