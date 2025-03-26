@@ -33,7 +33,7 @@
   🌱 I’m currently learning Three.js  
   </p>
   <p>
-  💬 Ask me about HTML, CSS, Bootstrap , TailwindCSS, JS, REACT , TYPESCRIPT
+  💬 Ask me about HTML, CSS, Bootstrap , TailwindCSS, JS, REACT , TYPESCRIPT , NPM
   
   </p>  
   <p>
